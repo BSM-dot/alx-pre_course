@@ -1,2 +1,8 @@
+<<<<<<< HEAD
 echo School
+echo School
+=======
+#!/bin/bash
+School
+>>>>>>> 9b895d2185fea487b9aea3b42c9db5b743a9ce0d
 echo School
